@@ -34,7 +34,7 @@
 .slick-prev:before { content: '\8592'; }
 
 .slick-next { right: 5px; }
-.slick-next:before { content: '\8594'; }
+.slick-next:before { content: '\<i class="fas fa-arrow-right"></i>'; }
 
 
 
